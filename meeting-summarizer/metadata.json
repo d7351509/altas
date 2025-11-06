@@ -1,9 +1,0 @@
-{
-  "name": "Meeting Summarizer",
-  "description": "An application to record audio or video from online meetings, generate a transcript using Gemini, and summarize the key points and action items.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "display-capture"
-  ]
-}
